@@ -8,3 +8,5 @@ module.exports = {
   watchPathIgnorePatterns: ["\\.git", "node_modules"],
   resolver: "jest-ts-webcompat-resolver",
 };
+
+
